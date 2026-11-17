@@ -1,0 +1,12 @@
+HTTrack3.49-23 launched on Tue, 17 Nov 2026 13:32:41 at https://www.ruparel-urbanakurla.com/?utm_source=google&utm_medium=cpc&utm_campaign=Ruparel+Urbana+SOBO&utm_term=ruparel%20urbana&utm_Physical_Location=9229434&utm_Targetid=kwd-2334679392171&utm_Target=&utm_Placement=&utm_Adposition=&gad_source=1&gad_campaignid=21823843407&gbraid=0AAAAAo5M6VToymDmbwr-LOAhPkeyVEcOa&gclid=Cj0KCQiA8OrXBhDEARIsAECtlx5X3ewYn07h8eoAvUSjCh8kovDPgREwMinv79QzBbFWty_AKbvnwGYaAhjgEALw_wcB +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://www.ruparel-urbanakurla.com/?utm_source=google&utm_medium=cpc&utm_campaign=Ruparel+Urbana+SOBO&utm_term=ruparel%20urbana&utm_Physical_Location=9229434&utm_Targetid=kwd-2334679392171&utm_Target=&utm_Placement=&utm_Adposition=&gad_source=1&gad_campaignid=21823843407&gbraid=0AAAAAo5M6VToymDmbwr-LOAhPkeyVEcOa&gclid=Cj0KCQiA8OrXBhDEARIsAECtlx5X3ewYn07h8eoAvUSjCh8kovDPgREwMinv79QzBbFWty_AKbvnwGYaAhjgEALw_wcB -O1 "C:\My Web Sites\ruparel-urbankurla" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:33:02	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.ruparel-urbanakurla.com/?utm_source=google&utm_medium=cpc&utm_campaign=Ruparel+Urbana+SOBO&utm_term=ruparel%20urbana&utm_Physical_Location=9229434&utm_Targetid=kwd-2334679392171&utm_Target=&utm_Placement=&utm_Adposition=&gad_source=1&gad_campaignid=21823843407&gbraid=0AAAAAo5M6VToymDmbwr-LOAhPkeyVEcOa&gclid=Cj0KCQiA8OrXBhDEARIsAECtlx5X3ewYn07h8eoAvUSjCh8kovDPgREwMinv79QzBbFWty_AKbvnwGYaAhjgEALw_wcB)
+
+HTTrack Website Copier/3.49-23 mirror complete in 24 seconds : 62 links scanned, 60 files written (2128906 bytes overall) [1904417 bytes received at 79350 bytes/sec], 560073 bytes transferred using HTTP compression in 22 files, ratio 32%, 16.7 requests per connection
+(1 errors, 0 warnings, 0 messages)
